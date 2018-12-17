@@ -1,4 +1,5 @@
 How to prepare another repository like this one:
+
 0. Enable PyCharm AWS Serverless Application Plugin (File > Settings > Plugins > AWS Toolkit)
 1. create new project with PyCharm (File > New Project > AWS Serverless Application)
 2. execute this on terminal
